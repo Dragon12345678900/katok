@@ -1,0 +1,42 @@
+<html>
+    <title>КАТОК</title>
+    <body style="font-family:sans-serif">
+         <header>
+           <a style="color:red; font-family:sans-serif" href="#prices">о ценах</a>
+
+               <p style="text-align:right"><a style="color:red; font-family:sans-serif text-align:right;" href="#lol">почему про каток</a></p>
+            <p style="text-align:center">  <img src="https://avatars.mds.yandex.net/i?id=53eafa12e9bf11731f8eccc4fa579d278bc3d8da-4560598-images-thumbs&n=13&exp=1" width="50"></p>
+ </header>
+
+
+
+
+         <main>
+             <h1 style="text-align:center; color:red; font-family:sans-serif">Каток</h1>
+             <h2 style="text-align:center; color:red; font-family:sans-serif">Каток в юдино с классом</h2>
+            <p id="lol" style="text-align:center">Ходить с классом куда либо это новые впичетления темболее на каток. <br>Каток в котором мы были выделил время на бесплатное посещение для школы.</p>
+           <p style="text-align:center"><img src="https://yandex-images.clstorage.net/5v1ZP1s70/4220a6qLdX/SO-AEAXhQ8ogWofpEMm-pO0o-g9uM21cR5gONa8KdWAgpkKNg1xxSak8tHgElHcuhkzzizRD5fpFprQtguavVVy3wlxBo1mVdh-YvRjKu6bwdbkecmlpAV3aUm3vBno-JqxQ3owVehXmdetwbPkDWqZ1he9ENp-EBaS5fNP_tkRL0atRBMI30R5o2scw1LOy_k_3AE5yXiFWtl1N9m99dmL8GeqLJxg28milEVHAIX6JZKfcVzmMmDGHlm3n1M5STdikJxPRGcgVavjfMsGMittg_SlKUXEkbZtDTvJScUlHzwzPkgkDOPpBvC1m1jdwl3uN110jl7M5soF529fOWW7cjSgb3R3NPm3b0xXMr5fWQeEOTXdMDUyTa2rKe11nW_0y7rkQKT3Zc5sAft87Sr5mrftDEqGFNoGwTMXX_HpL-5E8L_0L3RRx6_U76p-31FzCJG9yQwx4kWJ463x6Zl7dOdCHNjIA0VW3E0DTDEiCa7vKTgOGmiazoGLV_9FXUuCZEgboOMQrSuj1Juuxj-9Q2xl5aUMuRrd8VMdbYWxP6Q7tsS4PCN1QuAB87AdjikaA80kHhYkmspRx-vXNdFTkpCkQ3BTgCmr_9hb-k7jbQ9cGd2lWAXuMdnDcdnBbY-gQ9os8EyL0Tq4LdOsVWINphtdEJbyvDpCQfffB_lBQ9rk-Deskyyde7986z4OI22z9PUBkbyd_kGpW0FdFYUTKEfGlKwwX7me0CHHKCX29Zb_qXyWYjz-8kHza8vRjV-iYKy_RCd4nUPrbPeuChvRV8x1QTHUyeJNAYc15WEVG6QD5tCIkOOZRnCtA0hZMjnqpyHUajKExspJvxeT2b0T_ogAzwyHPHWbgwRvSmK_-b8EmaGttGXmkY0_qfll3e9c58acQCjnUZoIQfsASd5F9g9VhEIePD4SQVP7M1np53L4dOuULzhBK0MQeyZ6X4H7NK3JoZxJGtXVEzkU"</p>
+        <table id="prices" style="border:3px solid red; border-collapse:collapse;"" align="center">
+            <tr style="border: 3px solid red; border-collapse:collapse;">
+                <td style="border: 3px solid red; border-collapse:collapse">        цена        </td>
+                <td style="border: 3px solid red; border-collapse:collapse">время</td>
+            </tr>
+            <tr style="border: 3px solid red; border-collapse:collapse">
+                <td style="border: 3px solid red; border-collapse:collapse">взрослый</td>
+                <td style="border: 3px solid red; border-collapse:collapse">1 час</td>
+            </tr>
+            <tr style="border: 3px solid red; border-collapse:collapse">
+                <td style="border: 3px solid red; border-collapse:collapse">ребенок</td>
+                <td style="border: 3px solid red; border-collapse:collapse">1 час</td>
+            </tr>
+        </table>
+         </main>
+
+
+
+         <footer>
+<p style="text-align:center">+7 965 44 33</p>
+<p style="text-align:center">домская 6</p>
+         </footer>
+    </body>
+</html>
